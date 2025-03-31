@@ -1,0 +1,92 @@
+[
+  {
+    "Accounting_Entry": "FT25071528887244", 
+    "Value_date": "12/03/2025", 
+    "Credit": "50,000", 
+    "Debit": " ", 
+    "Narrative": "NHAN TU 022106810 TRACE 310838 ND 123456", 
+    "Running_balance": "1,050,000", 
+    "Transaction_time": "12/03/2025 09:50"
+  }, 
+  {
+    "Accounting_Entry": "FT25071810830427", 
+    "Value_date": "12/03/2025", 
+    "Credit": "50,000", 
+    "Debit": " ", 
+    "Narrative": "NHAN TU 022106810 TRACE 307376 ND 123456", 
+    "Running_balance": "1,000,000",
+     "Transaction_time": "12/03/2025 09:49"
+  }, 
+  {
+    "Accounting_Entry": "FT25071960580796", 
+    "Value_date": "12/03/2025", 
+    "Credit": "50,000", 
+    "Debit": " ", 
+    "Narrative": "NHAN TU 022106810 TRACE 305147 ND 123456", 
+    "Running_balance": "950,000", 
+    "Transaction_time": "12/03/2025 09:49"
+  }, 
+  {
+    "Accounting_Entry": "FT25071743080954", 
+    "Value_date": "12/03/2025", 
+    "Credit": "50,000", 
+    "Debit": " ", 
+    "Narrative": "NHAN TU 022106810 TRACE 303230 ND 123456", 
+    "Running_balance": "900,000", 
+    "Transaction_time": "12/03/2025 09:48"
+  }, 
+  {
+    "Accounting_Entry": "FT25071007097084", 
+    "Value_date": "12/03/2025", 
+    "Credit": "50,000", 
+    "Debit": " ", 
+    "Narrative": "NHAN TU 022106810 TRACE 301241 ND 123456", 
+    "Running_balance": "850,000", 
+    "Transaction_time": "12/03/2025 09:48"
+  }, 
+  {
+    "Accounting_Entry": "FT25071365196442", 
+    "Value_date": "12/03/2025", 
+    "Credit": "50,000", 
+    "Debit": " ", 
+    "Narrative": "NHAN TU 022106810 TRACE 298362 ND 123456", 
+    "Running_balance": "800,000", 
+    "Transaction_time": "12/03/2025 09:47"
+  }, 
+  {
+    "Accounting_Entry": "FT25071680543348", 
+    "Value_date": "12/03/2025", 
+    "Credit": "50,000", 
+    "Debit": " ", 
+    "Narrative": "NHAN TU 022106810 TRACE 296063 ND 123456", 
+    "Running_balance": "750,000", 
+    "Transaction_time": "12/03/2025 09:47"
+  }, 
+  {
+    "Accounting_Entry": "FT25071138946150", 
+    "Value_date": "12/03/2025", 
+    "Credit": "50,000", 
+    "Debit": " ", 
+    "Narrative": "NHAN TU 022106810 TRACE 294009 ND 123456", 
+    "Running_balance": "700,000", 
+    "Transaction_time": "12/03/2025 09:46"
+  }, 
+  {
+    "Accounting_Entry": "FT25071036790115", 
+    "Value_date": "12/03/2025", 
+    "Credit": "50,000", 
+    "Debit": " ", 
+    "Narrative": "NHAN TU 022106810 TRACE 291704 ND 123456", 
+    "Running_balance": "650,000", 
+    "Transaction_time": "12/03/2025 09:46"
+  }, 
+  {
+    "Accounting_Entry": "FT25071280528105", 
+    "Value_date": "12/03/2025", 
+    "Credit": "50,000", 
+    "Debit": " ", 
+    "Narrative": "NHAN TU 022106810 TRACE 286352 ND 123456", 
+    "Running_balance": "600,000", 
+    "Transaction_time": "12/03/2025 09:45"
+  }
+]
